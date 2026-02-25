@@ -1,5 +1,13 @@
 # ESP32-Lab4
 
+Members
+- [Ampere](https://github.com/27-pere)
+- [Karn](https://github.com/29Kn16)
+- [Joan](https://github.com/67991033-cell)
+
+2/25/2026
+Lab work 4 Project Kosen
+
 This project aims to
 - know basic ESP-32
 - connect ESP-32 with LED and use the touch detection function
